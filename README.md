@@ -7,6 +7,8 @@ Data annoation: 11 labels and their covered auxiliary emotions are optimistic (r
 
 Data information: There are total 10K labeled English tweets about Covid-19. The data are splitted into 5K, 2.5K, 2.5K as training data, testing data, validation data with the ratio 0.5:0.25:0.25. The training data and validation data have 13 columns, containing Tweet ID, Tweet text, Optimistic, Thankful, Empathetic, Pessimistic, Anxious, Sad, Annoyed, Denial, Surprise, Official report, Joking while testing data have two columns, Tweet ID and Tweet text.
 
+# Data Usage Agreement
+This dataset complies with Twitter’s Terms of Service. If you use this dataset, this means that you agree with the license and term of Twitter.
 
 
 
