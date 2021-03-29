@@ -1,5 +1,5 @@
 # Covid-19-Sentiment-Analysis
-This data is used for Global Student Competition of Covid-19 Sentiment Analysis, which is multi-label text classification task.
+This data is used for Global Student Competition of Covid-19 Sentiment Analysis, which is a multi-label text classification task.
 
 Data collection: The dataset was collected by, an open source Twitter crawler, called Twint, where query words like covid-19, coronavirus, covid, corona, ect. are used. The user-related information is removed when the data are saved.
 
