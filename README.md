@@ -12,7 +12,7 @@ Data information: The training data contian 5000 labeled data while validation d
 
 # Submission
 
-You must submit your solution through the **Kaggle Competition**. THe url is https://www.kaggle.com/c/sentiment-analysis-of-covid-19-related-tweets.
+You must submit your solution through the **Kaggle Competition**. The url is https://www.kaggle.com/c/sentiment-analysis-of-covid-19-related-tweets.
 
 
 # Data Usage Agreement
