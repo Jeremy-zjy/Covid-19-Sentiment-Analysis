@@ -14,6 +14,8 @@ Data information: The training data contian 5000 labeled data while validation d
 
 You must submit your solution through the **Kaggle Competition**. The url is https://www.kaggle.com/c/sentiment-analysis-of-covid-19-related-tweets.
 
+# Webniar Representation of Challenge 2
+We add the representation of challenge 2 for task description.
 
 # Data Usage Agreement
 This dataset complies with Twitter’s Terms of Service. If you use this dataset, this means that you agree with the license and term of Twitter. This dataset is only used for non-commercial research.
